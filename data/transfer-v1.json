@@ -1,0 +1,17 @@
+{
+  "id": "TRANSFER-NOTICE-V1",
+  "version": "1.0",
+  "date": "2026-07-10",
+  "lines": [
+    { "num": 1, "text": "人事调动通知", "type": "title" },
+    { "num": 2, "text": "编号：TRF-2026-07██-LCHE", "type": "partial", "hint": "日期部分模糊" },
+    { "num": 3, "text": "调动类型：临时外派", "type": "normal" },
+    { "num": 4, "text": "生效日期：2026-07-10", "type": "normal" },
+    { "num": 5, "text": "目的地：外勤站点 SIGMA-█", "type": "partial", "hint": "站点编号模糊" },
+    { "num": 6, "text": "授权人：档案主管 GS-4421", "type": "normal" },
+    { "num": 7, "text": "备注：调查员 L.CHE 调往 SIGMA 执行特别任务", "type": "normal" }
+  ],
+  "gridFragment": "121E",
+  "archivedBy": "L.CHE",
+  "archivedAt": "2026-07-10T18:00:00+08:00"
+}
