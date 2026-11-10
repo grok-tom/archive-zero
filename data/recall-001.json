@@ -1,0 +1,24 @@
+{
+  "id": "MANIFEST-RECALL-001",
+  "classification": "INTERNAL-AUDIT",
+  "deletedEntries": [
+    {
+      "seq": 1,
+      "path": "/audit/internal/LCHE-TRACE",
+      "description": "调查员林彻行动轨迹记录",
+      "status": "RECALLED",
+      "recallDate": "2026-07-14"
+    },
+    {
+      "seq": 2,
+      "path": "/audit/internal/LCHE-ORIGIN",
+      "description": "第零号档案原始版本",
+      "status": "RECALLED",
+      "recallDate": "2026-07-14"
+    }
+  ],
+  "recallAuth": "LCHE-RECALL-001",
+  "recallReason": "Superseded by corrected version",
+  "gridFragment": "31N",
+  "note": "Fragment 1 of 4 for SIGMA-9 grid reference"
+}
