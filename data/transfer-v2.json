@@ -1,0 +1,17 @@
+{
+  "id": "TRANSFER-NOTICE-V2",
+  "version": "2.0",
+  "date": "2026-07-10",
+  "lines": [
+    { "num": 1, "text": "人事调动通知", "type": "title" },
+    { "num": 2, "text": "编号：[已编辑]", "type": "normal" },
+    { "num": 3, "text": "调动类型：临时外派", "type": "normal" },
+    { "num": 4, "text": "生效日期：2026-07-[已编辑]", "type": "normal" },
+    { "num": 5, "text": "目的地：[已编辑]", "type": "normal" },
+    { "num": 6, "text": "授权人：档案主管 GS-4421", "type": "normal" },
+    { "num": 7, "text": "[本行已删除]", "type": "deleted" }
+  ],
+  "gridFragment": null,
+  "modifiedBy": "SYSTEM",
+  "modifiedAt": "2026-07-14T10:00:00+08:00"
+}
