@@ -1,0 +1,19 @@
+{
+  "id": "EMAIL-RESIGNATION-0712",
+  "from": "system@greyseal.internal",
+  "to": "all-staff@greyseal.internal",
+  "subject": "关于林彻同志离职的通知",
+  "displayTimestamp": "2026-07-16T09:00:00+08:00",
+  "actualTimestamp": "2026-07-12T03:42:17Z",
+  "actualTimestampLocal": "2026-07-12T11:42:17+08:00",
+  "claimedResignationDate": "2026-07-15",
+  "body": "各位同事：
+
+兹通知，档案调查员林彻（工号 LCHE）已于 2026-07-15 提交离职申请，即日起不再担任本机构职务。
+
+请各部门配合办理交接手续。
+
+档案管理系统",
+  "gridFragment": "SIGMA",
+  "note": "CRITICAL: email was sent on July 12 (Shanghai time 11:42), but claims resignation was submitted on July 15. This is impossible unless the email was backdated to create a false timeline."
+}
